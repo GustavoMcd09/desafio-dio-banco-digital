@@ -4,7 +4,7 @@ Criando um Banco Digital com Java e Orientação a Objetos.
 
 ## Sobre
 
-O projeto contém as principais funcionalidades de um banco, como: sacar, depositar, transferir, entre outras.
+Criando um banco digital com java e orientação a objetos. O desafio contém as principais funcionalidades de um banco como: sacar, depositar, transferir, entre outras.
 
 ## Linguagem Utilizada
 
